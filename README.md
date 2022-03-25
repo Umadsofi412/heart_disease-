@@ -1,2 +1,2 @@
 # heart_disease-
-Prediction of heart disease using Classification algorithm
+Prediction of heart disease using Classification Algorithms
